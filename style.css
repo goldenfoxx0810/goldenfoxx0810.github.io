@@ -1,0 +1,88 @@
+img{
+    border-radius: 10px;
+}
+#logo{
+    width:95px;
+    height:95px;
+}
+.prof{
+    max-width:95%;
+    height:47%;
+}
+body{
+    background-color: #f7d8d5;
+}
+.card{
+    background-color: #f7c7c2;
+    border: 3px solid #63160d;
+    box-shadow: 0 0 10px #e07f74;
+}
+header{
+    background-color: #02455f;
+    min-height: 110px;
+    box-shadow: 0 0 10px #017272;
+    color:#f7d12c;
+}
+h1{
+    font-size: 22px;
+}
+footer{
+    background-color: #02455f;
+    min-height: 180px;
+    box-shadow: 0 0 10px #017272;
+    color:#ffffff;
+    font-size:16px;
+}
+ .rev{
+    background-color: #02455f;
+    color:#f7d12c;
+}
+nav a:hover{
+    color:#fa968b ;
+}
+nav a{
+    text-decoration: none;
+    display: block;
+    height: 100%;
+    width: 100%;
+    font-size: 17px;
+    font-weight: bold;
+    color: #63160d;
+}
+nav a:visited{
+    color:#02455f;
+}
+aside h3{
+    font-family: "Century Gothic",sans-serif;
+    font-size:20px;
+    color:#02455f;
+    font-weight: bold;
+}
+aside p
+{
+    font-family: "Century Gothic",sans-serif;
+    font-size:17px;
+}
+aside h6
+{
+    font-size:20px;
+}
+aside a{
+    color:#63160d;
+}
+aside a:hover{
+    color:black;
+}
+aside{
+    background-color: #f7c7c2;
+    min-height: 150px;
+    box-shadow: 0 0 13px #017272;
+    color:black;
+    border: 1px solid #63160d;
+}
+a{
+    cursor: pointer;
+}
+label{
+    font-size:17px;
+}
