@@ -86,3 +86,9 @@ a{
 label{
     font-size:17px;
 }
+#prodPrice{
+    background-color: #02455f;
+    height:25px;
+    color:#f7d12c;
+    font-size:17px;
+}
